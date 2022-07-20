@@ -1,6 +1,4 @@
 import streamlit as st
-import pandas as pd
-
 
 st.write("""
 # Find largest among 3 numbers App
